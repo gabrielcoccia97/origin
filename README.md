@@ -2,6 +2,5 @@
 
 ## Gravando mudanças
 
-# Testando mudanças git professor ruim
 
 * comando git push
