@@ -1,5 +1,4 @@
-# Curso Digital GIT - Professor Ruim
-
+# Curso Digital GIT
 ## Gravando mudanças
 
 * comando git push
